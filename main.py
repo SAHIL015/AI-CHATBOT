@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "API KEY"
 
 # Define the prompt for the chatbot
 prompt = "Hello, how can I assist you today?"
